@@ -32,6 +32,3 @@ src="https://img.shields.io/twitter/follow/vijaykoogu?logo=twitter&style=for-the
 <a href="http://www.github.com/vjaykoogu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vjaykoogu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
